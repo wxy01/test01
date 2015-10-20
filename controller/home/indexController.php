@@ -33,8 +33,9 @@ class indexController extends Controller{
 /*业务逻辑部分*/
 	public function index(){
         echo 9999;
-		$this->get_index();
 
+		$this->get_index();
+    echo 1234;
 		$this->assign("p",0);
 		$this->display("index.html");
 	}

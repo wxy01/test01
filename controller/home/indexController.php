@@ -21,6 +21,8 @@ class indexController extends Controller{
 		$this->get_set();
 
 		 $this->assign("p",0);
+		sadsa
+		11.25
 
 	}
 

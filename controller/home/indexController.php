@@ -30,6 +30,7 @@ class indexController extends Controller{
 
 /*业务逻辑部分*/
 	public function index(){
+        echo 9999;
 		$this->get_index();
 
 		$this->assign("p",0);

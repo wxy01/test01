@@ -32,7 +32,9 @@ class indexController extends Controller{
 
 /*业务逻辑部分*/
 	public function index(){
+        echo 1111;
         echo 9999;
+        echo 666;
 
 		$this->get_index();
     echo 1234;

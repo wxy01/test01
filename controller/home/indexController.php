@@ -33,6 +33,9 @@ class indexController extends Controller{
         echo 9999;
         echo 666;
 
+		echo 666;13.34;
+		echo 13.36;
+
 		$this->get_index();
     echo 1234;
 		$this->assign("p",0);

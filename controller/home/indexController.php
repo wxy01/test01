@@ -34,7 +34,7 @@ class indexController extends Controller{
         echo 666;
 
 		echo 666;13.34;
-		echo 13.36;
+		echo 13.36;212
 
 		$this->get_index();
     echo 1234;
